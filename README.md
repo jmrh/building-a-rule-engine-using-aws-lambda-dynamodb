@@ -6,7 +6,7 @@ The rules engine use semantics similar to if/then statements found in your favor
 
 **Purpose:**
 
-This guide helps to implement a simple rule engine frameowrk and how to externalize rules stroing in DynamoDB and finally use Lambda and DynamoDB stream to fire those rules.
+This guide helps to implement a simple rule engine framework and how to externalize rules storing in DynamoDB and finally use Lambda and DynamoDB stream to fire those rules.
 
 **Introduction:**
 
